@@ -32,6 +32,6 @@ this class will generate the Query String for you to paste it inside MySQL Query
  - 3.INIT THE CLASS
 
 ~~~
-Terminal: php ex.php > database_name.sql
-Browser: http://localhost/exportPsqlToMySQL/ex.php
+Terminal: php example.php > database_name.sql
+Browser: http://localhost/exportPsqlToMySQL/example.php
 ~~~
